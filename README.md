@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Antoine 👋
 
-<!--
-**antoine-piriou/antoine-piriou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year engineering student at **IMT Atlantique** (Nantes, France),
+specializing in **Energy Transition and Environment** (TEE).
 
-Here are some ideas to get you started:
+## About me
+I combine a strong analytical background (CPGE PCSI/PSI) with applied skills in
+thermal modelling, energy systems and programming. My goal is to work on concrete
+solutions for decarbonization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Thermal engineering and fluid mechanics
+- Energy systems: heat networks, power grids, renewable integration
+- Data and modelling for energy (Python, SQL, Julia)
+- Carbon accounting and life cycle assessment (LCA)
+
+## Tech stack
+- **Languages:** Python, Julia, SQL, Java
+- **Tools:** Git, Docker, PostgreSQL, SolidWorks, Ansys, MATLAB/Simulink, LaTeX
+
+## Projects
+
+## Contact
+- Email: antoine.piriou8@gmail.com
+- LinkedIn: [linkedin.com/in/antoine-piriou](https://linkedin.com/in/antoine-piriou)
